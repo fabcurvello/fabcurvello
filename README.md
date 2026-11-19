@@ -132,6 +132,5 @@ Minha missão é a **educação, o acolhimento e a orientação de jovens**. Ens
 ---
 
 <p align="center">
-  <strong>Bora conversar?</strong> Para aulas, parcerias, palestras ou oportunidades, me chame no <a href="https://www.linkedin.com/in/fabriciocurvello">LinkedIn</a>.<br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=fabcurvello&color=DD0031&style=flat-square&label=visitas" alt="Visitas ao perfil" />
+  <strong>Bora conversar?</strong> Para aulas, parcerias, palestras ou oportunidades, me chame no <a href="https://www.linkedin.com/in/fabriciocurvello">LinkedIn</a>.
 </p>
