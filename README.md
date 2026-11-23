@@ -40,7 +40,7 @@ Minha missão é a **educação, o acolhimento e a orientação de jovens**. Ens
 |---|---|
 | 🎓 **Aluno** | Procure o repositório da sua disciplina. Cada projeto tem README com o passo a passo e o histórico de commits segue a ordem das aulas |
 | 👩‍🏫 **Professor** | Os projetos em destaque abaixo são material pronto para sala, com roteiro aula a aula e desafios para praticar. Fique à vontade para usar |
-| 💻 **Dev** | Veja a [Minha Loja em Angular 21](https://github.com/fabcurvello/ProjetoPrimeiroAppAngularModerno) (Signals, SSR, guards, interceptors) e a [API em NestJS](https://github.com/fabcurvello/projeto-nestjs) (Zod, Swagger, MongoDB) |
+| 💻 **Dev** | Veja a [Academia Dev](https://github.com/fabcurvello/academia-dev) (Angular 22, com [demo online](https://fabcurvello.github.io/academia-dev/)), a [Minha Loja em Angular 21](https://github.com/fabcurvello/ProjetoPrimeiroAppAngularModerno) (Signals, SSR, guards, interceptors) e a [API em NestJS](https://github.com/fabcurvello/projeto-nestjs) (Zod, Swagger, MongoDB) |
 | 🔎 **Recrutador** | Trajetória, formação e certificações estão logo abaixo, e o currículo completo está no [LinkedIn](https://www.linkedin.com/in/fabriciocurvello) |
 
 ## 🛠️ Tecnologias que uso e ensino
@@ -66,6 +66,7 @@ Minha missão é a **educação, o acolhimento e a orientação de jovens**. Ens
 
 | Projeto | Sobre |
 |---|---|
+| [**academia-dev**](https://github.com/fabcurvello/academia-dev) · [demo](https://fabcurvello.github.io/academia-dev/) | **Academia Dev**: plataforma de cursos em **Angular 22** que organiza as minhas videoaulas do YouTube em cursos, com matrícula, player integrado, progresso e calendário de estreias. Aplica o conteúdo das aulas num app completo: Signals e `linkedSignal`, facades, guards, Reactive Forms com `FormArray`, SSR, Angular Material 3 e testes com Vitest |
 | [**ProjetoPrimeiroAppAngularModerno**](https://github.com/fabcurvello/ProjetoPrimeiroAppAngularModerno) | **Minha Loja**: e-commerce completo em **Angular 21** com Signals, standalone, lazy loading, guards e interceptors funcionais, Reactive Forms, Angular Material e SSR. É o projeto de referência das aulas 04 a 34 |
 | [meuprimeiroappangularmodernoreview](https://github.com/fabcurvello/meuprimeiroappangularmodernoreview) | Revisão e validação técnica do material, refeito do zero módulo a módulo |
 | [meu-primeiro-app](https://github.com/fabcurvello/meu-primeiro-app) | Aplicação prática do roteiro, do primeiro componente ao e-commerce |
@@ -91,7 +92,7 @@ Minha missão é a **educação, o acolhimento e a orientação de jovens**. Ens
 |---|---|
 | [**jogoDaVelha**](https://github.com/fabcurvello/jogoDaVelha) | Jogo da velha contra o computador em **Python**, no console: funções, laços, exceções, recursividade e `random` |
 | [tutoriais_do_fabricio](https://github.com/fabcurvello/tutoriais_do_fabricio) | Tutoriais que escrevi e deixei públicos: MySQL, Python, Java, HTTP, Eclipse e VS Code |
-| [Curso de Python no YouTube](https://www.youtube.com/@fabriciocurvello) | Videoaulas gratuitas de Python, algoritmos em Java e modelagem de dados SQL no meu canal |
+| [Curso de Python no YouTube](https://www.youtube.com/@fabriciocurvello) | Videoaulas gratuitas de Python, algoritmos em Java e modelagem de dados SQL no meu canal, também organizadas em cursos na [Academia Dev](https://fabcurvello.github.io/academia-dev/) |
 
 ## 🗺️ Trajetória
 
