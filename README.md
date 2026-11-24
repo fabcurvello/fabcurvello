@@ -30,7 +30,7 @@ Minha missão é a **educação, o acolhimento e a orientação de jovens**. Ens
 <td align="center" width="25%"><h2>29+</h2>anos ensinando<br/>tecnologia</td>
 <td align="center" width="25%"><h2>3</h2>pós-graduações<br/>(IA, Mobile e Educação)</td>
 <td align="center" width="25%"><h2>10</h2>certificações<br/>Pearson · AWS · Microsoft · Oracle · EXIN</td>
-<td align="center" width="25%"><h2>170+</h2>repositórios<br/>de aulas e projetos</td>
+<td align="center" width="25%"><h2>130+</h2>repositórios<br/>de aulas e projetos</td>
 </tr>
 </table>
 
