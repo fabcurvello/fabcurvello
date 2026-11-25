@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=900&color=DD0031&center=true&vCenter=true&width=640&lines=29+anos+formando+desenvolvedores;Front-end+%C2%B7+Back-end+%C2%B7+Mobile+%C2%B7+IA;Angular+%C2%B7+NestJS+%C2%B7+Java+%C2%B7+Python;Pesquisa+em+L%C3%B3gica+Fuzzy" alt="Apresentação animada" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=900&color=DD0031&center=true&vCenter=true&width=640&lines=3+d%C3%A9cadas+formando+desenvolvedores;Front-end+%C2%B7+Back-end+%C2%B7+Mobile+%C2%B7+IA;Angular+%C2%B7+NestJS+%C2%B7+Java+%C2%B7+Python;Pesquisa+em+L%C3%B3gica+Fuzzy" alt="Apresentação animada" />
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 
 ## 🧑‍🏫 Sobre mim
 
-Ensino tecnologia desde **1997**. São quase três décadas na **Firjan SENAI**, primeiro nos cursos técnicos de TI do SENAI Maracanã e hoje no **Firjan SENAI Digitech Sapucaí, o Centro de Referência em TI**. Lá formo desenvolvedores fullstack em sistemas, sites, aplicativos e APIs. Desde **2018** também sou professor de graduação no **Centro Universitário IBMR (Ânima)**, nos cursos de **Análise e Desenvolvimento de Sistemas, Ciência da Computação e Gestão de TI**.
+Ensino tecnologia desde **1997**. São três décadas na **Firjan SENAI**, primeiro nos cursos técnicos de TI do SENAI Maracanã e hoje no **Firjan SENAI Digitech Sapucaí, o Centro de Referência em TI**. Lá formo desenvolvedores fullstack em sistemas, sites, aplicativos e APIs. Desde **2018** também sou professor de graduação no **Centro Universitário IBMR (Ânima)**, nos cursos de **Análise e Desenvolvimento de Sistemas, Ciência da Computação e Gestão de TI**.
 
 Além de dar aulas, **escrevo o material**: sou autor do material didático da unidade curricular de **Front-end com Angular** do curso de Desenvolvedor Fullstack do SENAI Digitech. Também gravo videoaulas de programação no meu canal do YouTube. Na pesquisa, estudo **Inteligência Artificial e Lógica Fuzzy**.
 
@@ -27,7 +27,7 @@ Minha missão é a **educação, o acolhimento e a orientação de jovens**. Ens
 
 <table>
 <tr>
-<td align="center" width="25%"><h2>29+</h2>anos ensinando<br/>tecnologia</td>
+<td align="center" width="25%"><h2>3</h2>décadas ensinando<br/>tecnologia</td>
 <td align="center" width="25%"><h2>3</h2>pós-graduações<br/>(IA, Mobile e Educação)</td>
 <td align="center" width="25%"><h2>10</h2>certificações<br/>Pearson · AWS · Microsoft · Oracle · EXIN</td>
 <td align="center" width="25%"><h2>130+</h2>repositórios<br/>de aulas e projetos</td>
